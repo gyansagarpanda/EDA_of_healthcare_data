@@ -1,5 +1,6 @@
 # EDA-of-Healthcare-data
 Data analysis and exploration project aimed at understanding and visualizing factors that influence whether patients show up for their medical appointments.
+LinkedIn article: https://www.linkedin.com/pulse/exploratory-data-analysis-healthcare-gyan-sagar-panda-skebf
 
 
 **Project Overview**:
